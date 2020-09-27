@@ -1,0 +1,72 @@
+body{
+  color: #056676;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+header{
+  color: #056676;
+  font-weight: bolder;
+  font-size: 2.5rem;
+  margin-top: 10px;
+  margin-left: 600px;
+  text-align: left;
+}
+
+
+.nav-bar{
+  margin-bottom: 100px;
+  display: inline-block;
+  width:500px;
+  position:relative;
+}
+
+.details {
+  display: inline-block;
+  margin-left:610px;
+  font-weight: 900;
+  font-size: 1.5rem;
+}
+
+.msg-2, .msg-1 {
+  padding-left: 610px;
+  font-size: 1.5rem;
+}
+
+
+a{
+  text-align: left;
+  text-decoration: none;
+  color:#625261;
+  font-size: 1.5rem;
+  padding:7px;
+}
+
+form{
+  padding-top: 30px;
+   padding-left: 610px;
+}
+
+input{
+  height:30px;
+  padding-right: 100px;
+  margin-right: 10px;
+}
+
+button{
+  border-style: none;
+  background-color: grey;
+  width:100px;
+  height:40px;
+  color:white;
+  font-size: 1.2rem;
+}
+
+footer{
+  color: #056676;
+  border-top: 1px solid black;
+  margin-left:400px;
+  margin-right:400px;
+  margin-top: 300px;
+  padding: 16px 0;
+}
